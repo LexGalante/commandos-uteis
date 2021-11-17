@@ -1,0 +1,1 @@
+#Não tenha medo das CLI's elas vão te ajudar muito no dia-dia
